@@ -1,0 +1,34 @@
+_repo: Principios-e-quest-es-de-philosophia-politica--Vol.-II-_41293
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cândido, António
+    aliases:
+    - Da Costa, António Cândido Ribeiro
+    - Costa, António Cândido Ribeiro da
+    - Candido, Antonio
+    - Ribeiro da Costa, António Cândido
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '41098'
+    url: http://www.gutenberg.org/2009/agents/41098
+    wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_C%C3%A2ndido_Ribeiro_da_Costa
+description: ''
+gutenberg_issued: '2012-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41293'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Law -- Philosophy'
+- !lcc 'JF'
+- !lcsh 'Suffrage'
+- !lcsh 'Representative government and representation'
+title: Principios e questões de philosophia politica (Vol. II)
+url: http://www.gutenberg.org/ebooks/41293
